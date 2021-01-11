@@ -3,7 +3,7 @@ A collection of my presentations, blog posts, and other contributions to the inf
 
 | Date  | Author(s) | Title | Type
 | ------------- | ------------- | ------------- | ------------- |
-| 12/08/2020 | [David French](https://twitter.com/threatpunter) | [Dorothy: A tool to test security monitoring and detection for Okta environments](https://www.elastic.co/blog/testing-okta-visibility-and-detection-dorothy) | [Tool](https://github.com/elastic/dorothy) |
+| 12/08/2020 | [David French](https://twitter.com/threatpunter) | Dorothy: A tool to test security monitoring and detection for Okta environments [Blog](https://www.elastic.co/blog/testing-okta-visibility-and-detection-dorothy), [Presentation](https://youtu.be/IG76PVvQSHE) | [Tool](https://github.com/elastic/dorothy) |
 | 08/21/2020 | [Brent Murphy](https://twitter.com/brent_murphy), [David French](https://twitter.com/threatpunter) | [Security operations: Cloud monitoring and detection with Elastic Security](https://www.elastic.co/blog/cloud-monitoring-and-detection-with-elastic-security) | Blog |
 | 08/13/2020 | [David French](https://twitter.com/threatpunter), [Neil Desai](https://twitter.com/0x617075) | [Threat hunting capture the flag with Elastic Security: BSides 2020](https://www.elastic.co/blog/threat-hunting-capture-the-flag-elastic-security-bsides-2020) | Blog |
 | 08/11/2020 | [Bobby Filar](https://twitter.com/filar), [David French](https://twitter.com/threatpunter) | [ProblemChild: Discovering Anomalous Patterns based on Parent-Child Process Relationships](https://arxiv.org/abs/2008.04676) | Paper |
