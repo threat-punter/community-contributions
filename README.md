@@ -3,6 +3,7 @@ A collection of my presentations, blog posts, and other contributions to the inf
 
 | Date  | Author(s) | Title | Type
 | ------------- | ------------- | ------------- | ------------- |
+| 07/27/2023 | [David French](https://twitter.com/threatpunter) | [From soup to nuts: Building a Detection-as-Code pipeline](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-28945015fc38) | Blog |
 | 07/12/2022 | [David French](https://twitter.com/threatpunter) | [Threat hunting in Okta logs](https://medium.com/threatpunter/okta-threat-hunting-tips-62dc0013d526) | Blog |
 | 08/04/2021 | [David French](https://twitter.com/threatpunter) ([Black Hat Bio](https://www.blackhat.com/us-21/arsenal/schedule/presenters.html#david-french-42029)) | [Black Hat Arsenal 2021: Using Dorothy to Test Okta SSO Visibility and Detection](https://www.blackhat.com/us-21/arsenal/schedule/#using-dorothy-to-test-okta-sso-visibility-and-detection-22952) | Presentation |
 | 12/08/2020 | [David French](https://twitter.com/threatpunter) | Dorothy: A tool to test security monitoring and detection for Okta environments [Blog](https://www.elastic.co/blog/testing-okta-visibility-and-detection-dorothy), [Presentation](https://youtu.be/IG76PVvQSHE) | [Tool](https://github.com/elastic/dorothy) |
