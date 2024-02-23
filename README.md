@@ -3,6 +3,7 @@ A collection of my presentations, blog posts, and other contributions to the inf
 
 | Date  | Author(s) | Title | Type
 | ------------- | ------------- | ------------- | ------------- |
+| 01/30/2024 | [David French](https://twitter.com/threatpunter) | [Getting Started with Detection-as-Code and Chronicle Security Operations](https://www.googlecloudcommunity.com/gc/Community-Blog/Getting-Started-with-Detection-as-Code-and-Chronicle-Security/ba-p/702154) | Blog |
 | 12/05/2023 | [David French](https://twitter.com/threatpunter) | [Detecting Suspicious Domains in Chronicle Using Entity Enrichment Data](https://www.googlecloudcommunity.com/gc/Community-Blog/Detecting-Suspicious-Domains-in-Chronicle-Using-Entity/ba-p/673258) | Blog |
 | 07/27/2023 | [David French](https://twitter.com/threatpunter) | [From soup to nuts: Building a Detection-as-Code pipeline](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-28945015fc38) | Blog |
 | 07/12/2022 | [David French](https://twitter.com/threatpunter) | [Threat hunting in Okta logs](https://medium.com/threatpunter/okta-threat-hunting-tips-62dc0013d526) | Blog |
