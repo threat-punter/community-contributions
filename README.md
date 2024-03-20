@@ -3,6 +3,7 @@ A collection of my presentations, blog posts, and other contributions to the inf
 
 | Date  | Author(s) | Title | Type
 | ------------- | ------------- | ------------- | ------------- |
+| 03/06/2024 | [David French](https://twitter.com/threatpunter) | [From soup to nuts: Building a Detection-as-Code pipeline](https://www.first.org/resources/papers/amsterdam24/David-French-From-soup-to-nuts.pdf) @ [FIRST Technical Colloquium](https://www.first.org/events/colloquia/amsterdam2024/program#pFrom-Soup-to-Nuts-Building-a-Detection-as-Code-Pipeline) | Presentation |
 | 01/30/2024 | [David French](https://twitter.com/threatpunter) | [Getting Started with Detection-as-Code and Chronicle Security Operations](https://www.googlecloudcommunity.com/gc/Community-Blog/Getting-Started-with-Detection-as-Code-and-Chronicle-Security/ba-p/702154) | Blog |
 | 12/05/2023 | [David French](https://twitter.com/threatpunter) | [Detecting Suspicious Domains in Chronicle Using Entity Enrichment Data](https://www.googlecloudcommunity.com/gc/Community-Blog/Detecting-Suspicious-Domains-in-Chronicle-Using-Entity/ba-p/673258) | Blog |
 | 07/27/2023 | [David French](https://twitter.com/threatpunter) | [From soup to nuts: Building a Detection-as-Code pipeline](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-28945015fc38) | Blog |
