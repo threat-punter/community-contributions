@@ -3,6 +3,7 @@ A collection of my presentations, blog posts, and other contributions to the inf
 
 | Date  | Author(s) | Title | Type
 | ------------- | ------------- | ------------- | ------------- |
+| 05/18/2024 | [David French](https://twitter.com/threatpunter) | [From soup to nuts: Building a Detection-as-Code pipeline @ BSides Dublin](https://www.bsidessd.org/past-events/2024/schedule-2024) [Slides](https://github.com/threat-punter/community-contributions/blob/main/content/presentations/) | Presentation |
 | 03/30/2024 | [David French](https://twitter.com/threatpunter) | [From soup to nuts: Building a Detection-as-Code pipeline @ BSides San Diego](https://www.bsidessd.org/past-events/2024/schedule-2024) | Presentation |
 | 03/06/2024 | [David French](https://twitter.com/threatpunter) | [From soup to nuts: Building a Detection-as-Code pipeline](https://www.first.org/resources/papers/amsterdam24/David-French-From-soup-to-nuts.pdf) @ [FIRST Technical Colloquium](https://www.first.org/events/colloquia/amsterdam2024/program#pFrom-Soup-to-Nuts-Building-a-Detection-as-Code-Pipeline) | Presentation |
 | 01/30/2024 | [David French](https://twitter.com/threatpunter) | [Getting Started with Detection-as-Code and Chronicle Security Operations](https://www.googlecloudcommunity.com/gc/Community-Blog/Getting-Started-with-Detection-as-Code-and-Chronicle-Security/ba-p/702154) | Blog |
