@@ -3,6 +3,8 @@ A collection of my presentations, blog posts, and other contributions to the inf
 
 | Date  | Author(s) | Title | Type
 | ------------- | ------------- | ------------- | ------------- |
+| 03/20/2025 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Detection Engineering with Google Cloud](https://podcasts.apple.com/us/podcast/detection-engineering-with-google-cloud/id1489678590?i=1000700163047) | Podcast |
+| 03/05/2025 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Community-Driven Detection Content for Google SecOps](https://www.googlecloudcommunity.com/gc/Community-Blog/Community-Driven-Detection-Content-for-Google-SecOps/ba-p/880309) | Blog |
 | 10/15/2024 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Securing Your CI/CD Pipeline: Eliminate Long-Lived Credentials with Workload Identity Federation](https://www.googlecloudcommunity.com/gc/Community-Blog/Securing-Your-CI-CD-Pipeline-Eliminate-Long-Lived-Credentials/ba-p/818736) | Blog |
 | 10/01/2024 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Monitoring for Unexpected Rule Changes in Google Security Operations](https://www.googlecloudcommunity.com/gc/Community-Blog/Monitoring-for-Unexpected-Rule-Changes-in-Google-Security/ba-p/810901) | Blog |
 | 09/25/2024 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Practical Techniques for Monitoring Your Security Data Pipeline](https://www.googlecloudcommunity.com/gc/Community-Blog/Practical-Techniques-for-Monitoring-Your-Security-Data-Pipeline/ba-p/809060) | Blog |
