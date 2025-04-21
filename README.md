@@ -3,6 +3,8 @@ A collection of my presentations, blog posts, and other contributions to the inf
 
 | Date  | Author(s) | Title | Type
 | ------------- | ------------- | ------------- | ------------- |
+| 04/09/2025 | [David French](https://www.linkedin.com/in/davidfrench001/), [John Stoner](https://www.linkedin.com/in/johnastoner/) | Modern detection engineering with Google SecOps @ Google Cloud Next 2025 | Presentation |
+| 03/28/2025 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Detection Engineering Demystified: Building Custom Detections for GitHub Enterprise]() | Presentation |
 | 03/20/2025 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Detection Engineering with Google Cloud](https://podcasts.apple.com/us/podcast/detection-engineering-with-google-cloud/id1489678590?i=1000700163047) | Podcast |
 | 03/05/2025 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Community-Driven Detection Content for Google SecOps](https://www.googlecloudcommunity.com/gc/Community-Blog/Community-Driven-Detection-Content-for-Google-SecOps/ba-p/880309) | Blog |
 | 10/15/2024 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Securing Your CI/CD Pipeline: Eliminate Long-Lived Credentials with Workload Identity Federation](https://www.googlecloudcommunity.com/gc/Community-Blog/Securing-Your-CI-CD-Pipeline-Eliminate-Long-Lived-Credentials/ba-p/818736) | Blog |
