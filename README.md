@@ -3,6 +3,8 @@ A collection of my presentations, blog posts, and other contributions to the inf
 
 | Date  | Author(s) | Title | Type
 | ------------- | ------------- | ------------- | ------------- |
+| 05/09/2025 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Tuning Rules in Google SecOps with Gemini and MCP Servers](https://www.youtube.com/watch?v=35ejRUeFH2I) | Video |
+| 05/05/2025 | [David French](https://www.linkedin.com/in/davidfrench001/) | [The Ultimate Guide to Detection as Code and Blue Team Tactics](https://podcasts.apple.com/us/podcast/s3-e5-the-ultimate-guide-to-detection-as-code-and/id1773806182?i=1000706362639) | Podcast |
 | 04/09/2025 | [David French](https://www.linkedin.com/in/davidfrench001/), [John Stoner](https://www.linkedin.com/in/johnastoner/) | [Modern detection engineering with Google SecOps](https://github.com/threat-punter/community-contributions/blob/master/content/presentations/Modern%20Detection%20Engineering%20with%20Google%20SecOps.pdf) @ Google Cloud Next 2025 | Presentation |
 | 03/28/2025 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Detection Engineering Demystified: Building Custom Detections for GitHub Enterprise](https://github.com/threat-punter/community-contributions/blob/master/content/presentations/Detection%20Engineering%20Demystified_%20Building%20Custom%20Detections%20for%20GitHub%20Enterprise%20(David%20French)%20-%20BSides%20San%20Diego%202025.pdf) | Presentation |
 | 03/20/2025 | [David French](https://www.linkedin.com/in/davidfrench001/) | [Detection Engineering with Google Cloud](https://podcasts.apple.com/us/podcast/detection-engineering-with-google-cloud/id1489678590?i=1000700163047) | Podcast |
